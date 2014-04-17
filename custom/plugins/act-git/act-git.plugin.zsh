@@ -1,0 +1,1 @@
+alias grs='git remote -v show'
